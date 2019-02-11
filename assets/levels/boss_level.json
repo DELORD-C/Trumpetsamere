@@ -8,7 +8,7 @@
         "coin_image": { "type": "image", "source": "assets/images/coin.png" },
         "fireball_image": { "type": "image", "source": "assets/images/fireball.png" },
         "stone_enemy_image": { "type": "image", "source": "assets/images/stone_enemy.png" },
-        "boss_image": { "type": "image", "source": "assets/images/boss.png" },
+        "boss_image": { "type": "image", "source": "assets/images/boss.gif" },
         
         "level_tilemap": { "type": "tilemap", "source": "assets/maps/boss_level_map.json" }
     },
