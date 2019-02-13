@@ -4,8 +4,9 @@ Platformer.Enemy = function (game_state, position, properties) {
     "use strict";
     Platformer.Prefab.call(this, game_state, position, properties);
     
-    this.walking_speed = +properties.walking_speed;
+    this.walking_speed = +properties.walking_speed + Math.floor(Math.random()*200 - 100);
     this.walking_distance = +properties.walking_distance;
+    console.log (this.walking_speed);
     this.score = +properties.score;
     
     // saving previous x to keep track of walked distance

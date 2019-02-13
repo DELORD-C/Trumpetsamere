@@ -297,7 +297,7 @@
                  "properties":
                     {
                      "group":"goals",
-                     "next_level":"Obama\/assets\/levels\/level3.json",
+                     "next_level":"Luffy\/assets\/levels\/level3.json",
                      "texture":"goal_image"
                     },
                  "type":"goal",
