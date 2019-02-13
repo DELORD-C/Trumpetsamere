@@ -48,7 +48,7 @@
                  "properties":
                     {
                      "group":"goals",
-                     "next_level":"assets\/levels\/boss_level.json",
+                     "next_level":"assets\/levels\/level4.json",
                      "texture":"goal_image"
                     },
                  "type":"goal",
@@ -352,7 +352,7 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
-                     "jumping_speed":"1000",
+                     "jumping_speed":"500",
                      "lives":"3",
                      "texture":"player_spritesheet",
                      "walking_speed":"200"
