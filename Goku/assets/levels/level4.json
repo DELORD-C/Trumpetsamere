@@ -1,5 +1,6 @@
 {
   "assets": {
+<<<<<<< HEAD
       "map_tiles": { "type": "image", "source": "Goku/assets/images/tiles_spritesheet.png" },
       "player_spritesheet": { "type": "spritesheet", "source": "Goku/assets/images/player_spritesheet.png", "frame_width": 28, "frame_height": 30, "frames": 5, "margin": 1, "spacing": 1 },
       "slime_image": { "type": "image", "source": "Goku/assets/images/slime.png" },
@@ -12,6 +13,20 @@
       "fireball_item_image": { "type": "image", "source": "Goku/assets/images/fireball.png" },
       
       "level_tilemap": { "type": "tilemap", "source": "Goku/assets/maps/level4_map.json" }
+=======
+      "map_tiles": { "type": "image", "source": "Luffy/assets/images/tiles_spritesheet.png" },
+      "player_spritesheet": { "type": "spritesheet", "source": "Luffy/assets/images/player_spritesheet.png", "frame_width": 28, "frame_height": 30, "frames": 5, "margin": 1, "spacing": 1 },
+      "slime_image": { "type": "image", "source": "Luffy/assets/images/slime.png" },
+      "fly_spritesheet": { "type": "spritesheet", "source": "Luffy/assets/images/fly_spritesheet.png", "frame_width": 37, "frame_height": 20, "frames": 2 },
+      "goal_image": { "type": "image", "source": "Luffy/assets/images/goal.png" },
+      "checkpoint_image": { "type": "image", "source": "Luffy/assets/images/checkpoint.png" },
+      "coin_image": { "type": "image", "source": "Luffy/assets/images/coin.png" },
+      "fireball_image": { "type": "image", "source": "Luffy/assets/images/fireball.png" },
+      "life_item_image": { "type": "image", "source": "Luffy/assets/images/life_item.png" },
+      "fireball_item_image": { "type": "image", "source": "Luffy/assets/images/fireball.png" },
+      
+      "level_tilemap": { "type": "tilemap", "source": "Luffy/assets/maps/level4_map.json" }
+>>>>>>> Map
   },
   "groups": [
       "goals",

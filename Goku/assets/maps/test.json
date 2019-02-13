@@ -62,7 +62,11 @@
                         {
                          "name":"next_level",
                          "type":"string",
+<<<<<<< HEAD
                          "value":"Goku\/assets\/levels\/level2.json"
+=======
+                         "value":"Luffy\/assets\/levels\/level2.json"
+>>>>>>> Map
                         }, 
                         {
                          "name":"texture",
@@ -105,7 +109,11 @@
                         {
                          "name":"jumping_speed",
                          "type":"string",
+<<<<<<< HEAD
                          "value":"500"
+=======
+                         "value":"600"
+>>>>>>> Map
                         }, 
                         {
                          "name":"lives",
@@ -120,7 +128,11 @@
                         {
                          "name":"walking_speed",
                          "type":"string",
+<<<<<<< HEAD
                          "value":"200"
+=======
+                         "value":"250"
+>>>>>>> Map
                         }],
                  "rotation":0,
                  "type":"player",

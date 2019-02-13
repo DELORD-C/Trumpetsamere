@@ -51,10 +51,17 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
+<<<<<<< HEAD
                      "jumping_speed":"500",
                      "lives":"3",
                      "texture":"player_spritesheet",
                      "walking_speed":"200"
+=======
+                     "jumping_speed":"600",
+                     "lives":"3",
+                     "texture":"player_spritesheet",
+                     "walking_speed":"250"
+>>>>>>> Map
                     },
                  "type":"player",
                  "visible":true,
@@ -144,7 +151,11 @@
                  "properties":
                     {
                      "group":"goals",
+<<<<<<< HEAD
                      "next_level":"Goku\/assets\/levels\/level1.json",
+=======
+                     "next_level":"Luffy\/assets\/levels\/level1.json",
+>>>>>>> Map
                      "texture":"goal_image"
                     },
                  "type":"goal",
@@ -221,7 +232,11 @@
  "tilesets":[
         {
          "firstgid":1,
+<<<<<<< HEAD
          "image":"..\/..\/..\/..\/Platformer_Part2\/source\/Goku\/assets\/images\/tiles_spritesheet.png",
+=======
+         "image":"..\/..\/..\/..\/Platformer_Part2\/source\/Luffy\/assets\/images\/tiles_spritesheet.png",
+>>>>>>> Map
          "imageheight":468,
          "imagewidth":457,
          "margin":0,
