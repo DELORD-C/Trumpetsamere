@@ -70,7 +70,7 @@
                  "visible":true,
                  "width":39,
                  "x":208,
-                 "y":1566
+                 "y":1568
                 }, 
                 {
                  "height":37,
@@ -313,6 +313,36 @@
                  "y":665
                 }, 
                 {
+                  "gid":19,
+                  "height":0,
+                  "name":"checkpoint2",
+                  "properties":
+                     {
+                      "group":"checkpoints",
+                      "texture":"checkpoint_image"
+                     },
+                  "type":"checkpoint",
+                  "visible":true,
+                  "width":0,
+                  "x":420,
+                  "y":400
+                 }, 
+                 {
+                  "gid":19,
+                  "height":0,
+                  "name":"checkpoint3",
+                  "properties":
+                     {
+                      "group":"checkpoints",
+                      "texture":"checkpoint_image"
+                     },
+                  "type":"checkpoint",
+                  "visible":true,
+                  "width":0,
+                  "x":180,
+                  "y":300
+                 }, 
+                {
                  "gid":147,
                  "height":0,
                  "name":"player",
@@ -322,7 +352,7 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
-                     "jumping_speed":"500",
+                     "jumping_speed":"1000",
                      "lives":"3",
                      "texture":"player_spritesheet",
                      "walking_speed":"200"
@@ -332,36 +362,6 @@
                  "width":0,
                  "x":75,
                  "y":1713
-                }, 
-                {
-                 "height":37,
-                 "name":"life_item0",
-                 "properties":
-                    {
-                     "":"",
-                     "group":"items",
-                     "texture":"life_item_image"
-                    },
-                 "type":"life_item",
-                 "visible":true,
-                 "width":39,
-                 "x":35,
-                 "y":193
-                }, 
-                {
-                 "height":37,
-                 "name":"fireball_item0",
-                 "properties":
-                    {
-                     "":"",
-                     "group":"items",
-                     "texture":"fireball_item_image"
-                    },
-                 "type":"fireball_item",
-                 "visible":true,
-                 "width":39,
-                 "x":460,
-                 "y":725
                 }],
          "opacity":1,
          "type":"objectgroup",
