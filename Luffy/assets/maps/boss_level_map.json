@@ -144,7 +144,7 @@
                  "properties":
                     {
                      "group":"goals",
-                     "next_level":"Obama\/assets\/levels\/level1.json",
+                     "next_level":"Luffy\/assets\/levels\/level1.json",
                      "texture":"goal_image"
                     },
                  "type":"goal",
@@ -221,7 +221,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "image":"..\/..\/..\/..\/Platformer_Part2\/source\/Obama\/assets\/images\/tiles_spritesheet.png",
+         "image":"..\/..\/..\/..\/Platformer_Part2\/source\/Luffy\/assets\/images\/tiles_spritesheet.png",
          "imageheight":468,
          "imagewidth":457,
          "margin":0,

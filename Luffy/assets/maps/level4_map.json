@@ -49,7 +49,7 @@
                    "properties":
                     {
                      "group":"goals",
-                     "next_level":"Obama\/assets\/levels\/boss_level.json",
+                     "next_level":"Luffy\/assets\/levels\/boss_level.json",
                      "texture":"goal_image"
                     },
                    "type":"goal",
