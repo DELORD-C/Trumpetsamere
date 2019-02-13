@@ -1,3 +1,56 @@
 body {
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+button {
+    padding: 20px;
+    color: red;
+    background-color: #fff;
+    border: 1px solid red;
+    font-size: 20px;
+    width: 200px;
+    margin: 150px;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+}
+
+button:hover {
+    color: #fff;
+    border: solid 1px #fff;
+    background-color: red;
+}
+
+.char {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    z-index: -100;
+    display: none;
+}
+
+canvas {
+    display: none;
+}
+
+.loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: none;
+}
+
+.loading p {
+    color: #fff;
+    font-size: 30px;
 }
