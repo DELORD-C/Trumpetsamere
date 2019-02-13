@@ -2,10 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98f143b-3f2d-4f59-8d5a-1e1d65798e26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/levels/level4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/boss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/checkpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/fireball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/fly_spritesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/life_item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/player_spritesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/slime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/stone_enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/images/tiles_spritesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/levels/boss_level.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/levels/level1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/levels/level2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/levels/level3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/levels/level4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/boss_level_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/level1_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/level2_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/level3_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/level4_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/assets/maps/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Boss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Checkpoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Coin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Fireball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/FireballItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/FlyingEnemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Goal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/GroundEnemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/LifeItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Lives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Prefab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/RunningEnemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/Score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/prefabs/StoneEnemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/states/BootState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/states/LoadingState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goku/js/states/TiledState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/maps/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/boss.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/boss.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/boss.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/boss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/checkpoint.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/coin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/coin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/fireball.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/fireball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/fly_spritesheet.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/fly_spritesheet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/life_item.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/life_item.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/slime.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/slime.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/images/stone_enemy.png" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/images/stone_enemy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/boss_level_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/boss_level_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/level1_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/level1_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/level2_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/level2_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/level3_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/level3_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/level4_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/level4_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luffy/assets/maps/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/Luffy/assets/maps/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,93 +78,77 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level2_map.json">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="299" column="61" selection-end-line="646" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+        <entry file="file://$PROJECT_DIR$/Goku/js/states/BootState.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/level4_map.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/test.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1297">
+              <caret line="122" column="36" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Luffy/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/levels/level2.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/levels/level1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/test.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4131">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level1_map.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6749">
-              <caret line="397" column="1" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/levels/level3.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/levels/level4.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="83" lean-forward="true" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+              <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/states/BootState.js">
+        <entry file="file://$PROJECT_DIR$/Goku/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            <state relative-caret-position="102">
+              <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/boss_level_map.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trump/assets/images/boss.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Luffy/assets/images/boss.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -121,11 +164,14 @@
       <find>fire</find>
       <find>level1</find>
       <find>test_map</find>
-      <find>player</find>
       <find>tilese</find>
       <find>next</find>
       <find>nex</find>
       <find>goal</find>
+      <find>en</find>
+      <find>pla</find>
+      <find>play</find>
+      <find>player</find>
     </findStrings>
     <dirStrings>
       <dir>C:\wamp64\www\clement-raf\Trumpetsamere</dir>
@@ -154,13 +200,23 @@
         <option value="$PROJECT_DIR$/assets/levels/level4.json" />
         <option value="$PROJECT_DIR$/assets/maps/test.json" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/level1_map.json" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/level2_map.json" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/level3_map.json" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/level4_map.json" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/test.json" />
+        <option value="$PROJECT_DIR$/Luffy/assets/maps/boss_level_map.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Luffy/js/main.js" />
+        <option value="$PROJECT_DIR$/Goku/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="542" />
-    <option name="width" value="980" />
-    <option name="height" value="850" />
+    <option name="x" value="535" />
+    <option name="y" value="150" />
+    <option name="width" value="1175" />
+    <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -169,57 +225,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="levels" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="maps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="prefabs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trumpetsamere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trumpetsamere" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="states" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +237,10 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\clement-raf\Trumpetsamere" />
+      <recent name="C:\wamp64\www\clement-raf\Trumpetsamere\Luffy\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\clement-raf\Trumpetsamere\assets\maps" />
       <recent name="C:\wamp64\www\clement-raf\Trumpetsamere\assets\levels" />
@@ -264,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26900000" />
+    <option name="totallyTimeSpent" value="31971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -314,237 +324,144 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/maps/test_map.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/test_map.json" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/test.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.tsx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/boss_level_map.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level3.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/sans titre.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/test.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/testzfzef.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/feve.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/tiles_spritesheet.tsx" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/level2.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level2.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level2_map.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level3.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level1.tmx" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/level3.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.json" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/level4.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/test.json" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/boss_level.json" />
+    <entry file="file://$PROJECT_DIR$/assets/maps/level1_map.json" />
+    <entry file="file://$PROJECT_DIR$/assets/levels/level1.json" />
+    <entry file="file://$PROJECT_DIR$/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/js/states/BootState.js" />
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/fly_spritesheet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/levels/level1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trump/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/coin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/tiles_spritesheet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/stone_enemy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/life_item.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/goal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/player_spritesheet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/slime.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/js/phaser.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/level1_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/level2_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="576" column="41" selection-start-line="576" selection-start-column="41" selection-end-line="576" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/level3_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="357" column="40" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/level4_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="122" column="36" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/maps/boss_level_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/boss.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Luffy/assets/images/boss.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trump/assets/images/boss.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/Prefab.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/Player.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/RunningEnemy.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/fireball.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/FireballItem.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/Fireball.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/LifeItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/Lives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/fly_spritesheet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/tiles_spritesheet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/phaser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="48007" column="32" selection-start-line="48007" selection-start-column="28" selection-end-line="48007" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/states/TiledState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/test_map.tmx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/states/LoadingState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/test_map.tmx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/test_map.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/test.json">
+    <entry file="file://$PROJECT_DIR$/Goku/js/states/BootState.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/boss_level_map.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2482">
-          <caret line="146" column="61" lean-forward="true" selection-start-line="146" selection-start-column="61" selection-end-line="146" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/sans titre.tmx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/test.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/testzfzef.tmx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/feve.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/tiles_spritesheet.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/level2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level2.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-end-line="3306" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level2_map.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="299" column="61" selection-end-line="646" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level3.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="3306" selection-start-line="3306" selection-end-line="3306" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level1.tmx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/level3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6749">
-          <caret line="397" column="1" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/level4.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="83" lean-forward="true" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4131">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/boss_level.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/maps/level1_map.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/level1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/Luffy/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/states/BootState.js">
+    <entry file="file://$PROJECT_DIR$/Goku/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
         </state>
       </provider>
     </entry>
