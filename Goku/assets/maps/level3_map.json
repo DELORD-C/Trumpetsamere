@@ -48,11 +48,7 @@
                  "properties":
                     {
                      "group":"goals",
-<<<<<<< HEAD
                      "next_level":"Goku\/assets\/levels\/level4.json",
-=======
-                     "next_level":"Luffy\/assets\/levels\/level4.json",
->>>>>>> Map
                      "texture":"goal_image"
                     },
                  "type":"goal",
@@ -356,17 +352,10 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
-<<<<<<< HEAD
                      "jumping_speed":"500",
                      "lives":"3",
                      "texture":"player_spritesheet",
                      "walking_speed":"200"
-=======
-                     "jumping_speed":"600",
-                     "lives":"3",
-                     "texture":"player_spritesheet",
-                     "walking_speed":"250"
->>>>>>> Map
                     },
                  "type":"player",
                  "visible":true,

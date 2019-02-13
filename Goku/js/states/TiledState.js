@@ -118,11 +118,7 @@ Platformer.TiledState.prototype.restart_level = function () {
 Platformer.TiledState.prototype.game_over = function () { 
     "use strict";
     localStorage.clear();
-<<<<<<< HEAD
     this.game.state.start("BootState", true, false, "Goku/assets/levels/level1.json");
-=======
-    this.game.state.start("BootState", true, false, "Luffy/assets/levels/level1.json");
->>>>>>> Map
 };
 
 Platformer.TiledState.prototype.init_hud = function () {
