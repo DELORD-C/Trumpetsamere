@@ -1,4 +1,4 @@
-var smusic = new Audio ('/src/smusic.mp3');
+var smusic = new Audio ('src/smusic.mp3');
 $('.button').mousedown(function(e){
     if (e.which == 1) {
         var target = $(this).html() + '/';
@@ -6,24 +6,24 @@ $('.button').mousedown(function(e){
         smusic.volume = 0.1;
         if (target == 'Trump/') {
             $('#load').attr('src', 'src/wall.gif');
-            var trump = new Audio ('/src/trump.mp3');
-            var music = new Audio ('/src/trump theme.mp3');
+            var trump = new Audio ('src/trump.mp3');
+            var music = new Audio ('src/trump theme.mp3');
             music.volume = 0.1;
             trump.play();
             trump.volume = 0.8;
         }
         else if (target == 'Luffy/') {
             $('#load').attr('src', 'src/charge.gif');
-            var luffy = new Audio ('/src/luffy.mp3');
-            var music = new Audio ('/src/luffy theme.mp3');
+            var luffy = new Audio ('src/luffy.mp3');
+            var music = new Audio ('src/luffy theme.mp3');
             music.volume = 0.3;
             luffy.play();
             luffy.volume = 0.5;
         }
         else if (target == 'Goku/') {
             $('#load').attr('src', 'src/smoke.gif');
-            var goku = new Audio ('/src/goku.mp3');
-            var music = new Audio ('/src/goku theme.mp3');
+            var goku = new Audio ('src/goku.mp3');
+            var music = new Audio ('src/goku theme.mp3');
             music.volume = 0.2;
             goku.play();
             goku.volume = 0.5;
