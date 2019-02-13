@@ -65,12 +65,10 @@ Platformer.Player.prototype.update = function () {
         this.body.velocity.y = -this.jumping_speed;
     }
     
-    // dies if touches the end of the screen
     if (this.bottom >= this.game_state.game.world.height) {
         this.die();
     }
     
-    // if the player is able to shoot and the shooting button is pressed, start shooting
     if (this.shooting && this.game_state.input.keyboard.isDown(Phaser.Keyboard.SPACEBAR)) {
         if (!this.shoot_timer.running) {
             this.shoot();
@@ -83,7 +81,6 @@ Platformer.Player.prototype.update = function () {
 
 Platformer.Player.prototype.hit_enemy = function (player, enemy) {
     "use strict";
-    // if the player is above the enemy, the enemy is killed, otherwise the player dies
     if (enemy.body.touching.up) {
         this.score += enemy.score;
         enemy.kill();
@@ -107,15 +104,12 @@ Platformer.Player.prototype.die = function () {
 Platformer.Player.prototype.shoot = function () {
     "use strict";
     var fireball, fireball_position, fireball_properties;
-    // get the first dead fireball from the pool
     fireball = this.game_state.groups.fireballs.getFirstDead();
     fireball_position = new Phaser.Point(this.x, this.y);
     if (!fireball) {
-        // if there is no dead fireball, create a new one
         fireball_properties = {"texture": "fireball_image", "group": "fireballs", "direction": this.direction, "speed": this.attack_speed};
         fireball = new Platformer.Fireball(this.game_state, fireball_position, fireball_properties);
     } else {
-        // if there is a dead fireball, reset it in the new position
         fireball.reset(fireball_position.x, fireball_position.y);
         fireball.body.velocity.x = (this.direction == "LEFT") ? -this.attack_speed : this.attack_speed;
     }
