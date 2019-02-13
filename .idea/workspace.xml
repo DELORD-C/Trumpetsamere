@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98f143b-3f2d-4f59-8d5a-1e1d65798e26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/levels/level3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/maps/level3.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/maps/level3_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/maps/test.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/maps/boss_level_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/boss_level_map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/maps/level1_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/level1_map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/maps/level2_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/level2_map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,16 +47,16 @@
         <entry file="file://$PROJECT_DIR$/assets/levels/level1.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level1.tmx">
+        <entry file="file://$PROJECT_DIR$/assets/maps/test.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -77,28 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level3.tmx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="3306" selection-start-line="3306" selection-end-line="3306" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10982">
-              <caret line="646" column="1" selection-start-line="646" selection-start-column="1" selection-end-line="646" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/maps/level2.tmx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" selection-end-line="3306" />
+            <state relative-caret-position="6749">
+              <caret line="397" column="1" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="862" />
     <option name="y" value="481" />
     <option name="width" value="980" />
@@ -261,15 +237,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549880874069</updated>
       <workItem from="1549880879398" duration="2144000" />
-      <workItem from="1549890863460" duration="19556000" />
+      <workItem from="1549890863460" duration="20789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21700000" />
+    <option name="totallyTimeSpent" value="22933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122934565" />
@@ -496,15 +472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/maps/level3_map.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10982">
-          <caret line="646" column="1" selection-start-line="646" selection-start-column="1" selection-end-line="646" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/levels/level1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="6749">
+          <caret line="397" column="1" selection-start-line="397" selection-start-column="1" selection-end-line="397" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -533,6 +502,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/levels/level1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/maps/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
