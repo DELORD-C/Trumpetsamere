@@ -49,7 +49,7 @@
                    "properties":
                     {
                      "group":"goals",
-                     "next_level":"Luffy\/assets\/levels\/level6.json",
+                     "next_level":"Trump\/assets\/levels\/level6.json",
                      "texture":"goal_image"
                     },
                    "type":"goal",
@@ -71,7 +71,7 @@
                     "jumping_speed":"500",
                     "lives":"3",
                     "texture":"player_spritesheet",
-                    "walking_speed":"250"
+                    "walking_speed":"200"
                    },
                    "type":"player",
                    "visible":true,

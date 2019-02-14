@@ -61,3 +61,25 @@ canvas {
     filter: grayscale(0);
     width: 150px;
 }
+
+.finish {
+    display: none;
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+}
+
+#winjpg {
+    position: absolute;
+    width: 100vw;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -100;
+}
+
+#wingif {
+    z-index: 1000;
+    margin-top: 260px;
+}

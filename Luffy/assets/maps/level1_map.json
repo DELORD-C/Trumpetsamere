@@ -67,7 +67,7 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
-                     "jumping_speed":"600",
+                     "jumping_speed":"500",
                      "lives":"3",
                      "texture":"player_spritesheet",
                      "walking_speed":"250"

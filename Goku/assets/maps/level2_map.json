@@ -571,10 +571,10 @@
                      "attack_speed":"500",
                      "bouncing":"20",
                      "group":"players",
-                     "jumping_speed":"500",
+                     "jumping_speed":"700",
                      "lives":"3",
                      "texture":"player_spritesheet",
-                     "walking_speed":"200"
+                     "walking_speed":"300"
                     },
                  "type":"player",
                  "visible":true,

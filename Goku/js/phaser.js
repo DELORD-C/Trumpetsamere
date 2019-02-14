@@ -2027,7 +2027,7 @@ PIXI.SpriteBatch.prototype._renderCanvas = function(renderSession)
  * @param text {String} The copy that you would like the text to display
  * @param [style] {Object} The style parameters
  * @param [style.font] {String} default 'bold 20px Arial' The style and size of the font
- * @param [style.fill='black'] {String|Number} A canvas fillstyle that will be used on the text e.g 'red', '#00FF00'
+ * @param [style.fill='white'] {String|Number} A canvas fillstyle that will be used on the text e.g 'red', '#00FF00'
  * @param [style.align='left'] {String} Alignment for multiline text ('left', 'center' or 'right'), does not affect single line text
  * @param [style.stroke] {String|Number} A canvas fillstyle that will be used on the text stroke e.g 'blue', '#FCFF00'
  * @param [style.strokeThickness=0] {Number} A number that represents the thickness of the stroke. Default is 0 (no stroke)
@@ -2127,9 +2127,9 @@ Object.defineProperty(PIXI.Text.prototype, 'height', {
  * @method setStyle
  * @param [style] {Object} The style parameters
  * @param [style.font='bold 20pt Arial'] {String} The style and size of the font
- * @param [style.fill='black'] {Object} A canvas fillstyle that will be used on the text eg 'red', '#00FF00'
+ * @param [style.fill='white'] {Object} A canvas fillstyle that will be used on the text eg 'red', '#00FF00'
  * @param [style.align='left'] {String} Alignment for multiline text ('left', 'center' or 'right'), does not affect single line text
- * @param [style.stroke='black'] {String} A canvas fillstyle that will be used on the text stroke eg 'blue', '#FCFF00'
+ * @param [style.stroke='white'] {String} A canvas fillstyle that will be used on the text stroke eg 'blue', '#FCFF00'
  * @param [style.strokeThickness=0] {Number} A number that represents the thickness of the stroke. Default is 0 (no stroke)
  * @param [style.wordWrap=false] {Boolean} Indicates if word wrap should be used
  * @param [style.wordWrapWidth=100] {Number} The width at which text will wrap
@@ -2142,9 +2142,9 @@ PIXI.Text.prototype.setStyle = function(style)
 {
     style = style || {};
     style.font = style.font || 'bold 20pt Arial';
-    style.fill = style.fill || 'black';
+    style.fill = style.fill || 'white';
     style.align = style.align || 'left';
-    style.stroke = style.stroke || 'black'; //provide a default, see: https://github.com/GoodBoyDigital/pixi.js/issues/136
+    style.stroke = style.stroke || 'white'; //provide a default, see: https://github.com/GoodBoyDigital/pixi.js/issues/136
     style.strokeThickness = style.strokeThickness || 0;
     style.wordWrap = style.wordWrap || false;
     style.wordWrapWidth = style.wordWrapWidth || 100;
@@ -8415,7 +8415,7 @@ PIXI.CanvasRenderer.prototype.render = function(stage)
 
     if (navigator.isCocoonJS && this.view.screencanvas)
     {
-        this.context.fillStyle = "black";
+        this.context.fillStyle = "white";
         this.context.clear();
     }
     
@@ -41118,9 +41118,9 @@ Phaser.Text.prototype.setShadow = function (x, y, color, blur) {
 * @param {string} [style.fontWeight=(from font)] - The weight of the font (eg. 'bold'): overrides the value in `style.font`.
 * @param {string|number} [style.fontSize=(from font)] - The size of the font (eg. 32 or '32px'): overrides the value in `style.font`.
 * @param {string} [style.backgroundColor=null] - A canvas fillstyle that will be used as the background for the whole Text object. Set to `null` to disable.
-* @param {string} [style.fill='black'] - A canvas fillstyle that will be used on the text eg 'red', '#00FF00'.
+* @param {string} [style.fill='white'] - A canvas fillstyle that will be used on the text eg 'red', '#00FF00'.
 * @param {string} [style.align='left'] - Alignment for multiline text ('left', 'center' or 'right'), does not affect single line text.
-* @param {string} [style.stroke='black'] - A canvas stroke style that will be used on the text stroke eg 'blue', '#FCFF00'.
+* @param {string} [style.stroke='white'] - A canvas stroke style that will be used on the text stroke eg 'blue', '#FCFF00'.
 * @param {number} [style.strokeThickness=0] - A number that represents the thickness of the stroke. Default is 0 (no stroke).
 * @param {boolean} [style.wordWrap=false] - Indicates if word wrap should be used.
 * @param {number} [style.wordWrapWidth=100] - The width in pixels at which text will wrap.
@@ -41130,9 +41130,9 @@ Phaser.Text.prototype.setStyle = function (style) {
     style = style || {};
     style.font = style.font || 'bold 20pt Arial';
     style.backgroundColor = style.backgroundColor || null;
-    style.fill = style.fill || 'black';
+    style.fill = style.fill || 'white';
     style.align = style.align || 'left';
-    style.stroke = style.stroke || 'black'; //provide a default, see: https://github.com/GoodBoyDigital/pixi.js/issues/136
+    style.stroke = style.stroke || 'white'; //provide a default, see: https://github.com/GoodBoyDigital/pixi.js/issues/136
     style.strokeThickness = style.strokeThickness || 0;
     style.wordWrap = style.wordWrap || false;
     style.wordWrapWidth = style.wordWrapWidth || 100;

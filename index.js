@@ -24,7 +24,9 @@ $('.button').mousedown(function(e){
             $('#load').attr('src', 'src/smoke.gif');
             var goku = new Audio ('src/goku.mp3');
             var music = new Audio ('src/goku theme.mp3');
+            var win = new Audio ('src/win.mp3');
             music.volume = 0.2;
+            win.volume = 0.2;
             goku.play();
             goku.volume = 0.5;
         }

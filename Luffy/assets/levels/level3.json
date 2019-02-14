@@ -5,14 +5,20 @@
         "slime_image": { "type": "image", "source": "Luffy/assets/images/slime.png" },
         "fly_spritesheet": { "type": "spritesheet", "source": "Luffy/assets/images/fly_spritesheet.png", "frame_width": 37, "frame_height": 20, "frames": 2 },
         "goal_image": { "type": "image", "source": "Luffy/assets/images/goal.png" },
-        "checkpoint_image": { "type": "image", "source": "Luffy/assets/images/checkpoint.png" },
         "coin_image": { "type": "image", "source": "Luffy/assets/images/coin.png" },
+        "fireball_image": { "type": "image", "source": "Luffy/assets/images/fireball.png" },
+        "stone_enemy_image": { "type": "image", "source": "Luffy/assets/images/stone_enemy.png" },
+        "boss_image": { "type": "image", "source": "Luffy/assets/images/boss.gif" },
+        
         "level_tilemap": { "type": "tilemap", "source": "Luffy/assets/maps/level3_map.json" }
     },
     "groups": [
         "goals",
         "checkpoints",
         "coins",
+        "fireballs",
+        "enemy_fireballs",
+        "invincible_enemies",
         "enemies",
         "players",
         "items",

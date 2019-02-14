@@ -25,6 +25,14 @@ Platformer.Goal.prototype.reach_goal = function () {
     // start the next level
     localStorage.player_lives = this.game_state.prefabs.player.lives;
     localStorage.player_score = this.game_state.prefabs.player.score;
+    if (this.next_level == 'finish') {
+        this.game_state.game_over();
+        $('.finish').fadeIn();
+        setTimeout(function(){
+            music.pause();
+            window.play();
+        }, 500);
+    }
     this.game_state.game.state.start("BootState", true, false, this.next_level);
 };
 
