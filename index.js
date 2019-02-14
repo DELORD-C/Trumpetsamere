@@ -1,7 +1,7 @@
 var smusic = new Audio ('src/smusic.mp3');
 $('.button').mousedown(function(e){
     if (e.which == 1) {
-        var target = $(this).html() + '/';
+        var target = $(this).attr('target') + '/';
         var include = "<script type='text/javascript' src='" + target + "js/phaser.js'></script><script src='" + target + "js/states/BootState.js'></script><script src='" + target + "js/states/LoadingState.js'></script><script src='" + target + "js/states/TiledState.js'></script><script src='" + target + "js/prefabs/Prefab.js'></script><script src='" + target + "js/prefabs/Player.js'></script><script src='" + target + "js/prefabs/Enemy.js'></script><script src='" + target + "js/prefabs/GroundEnemy.js'></script><script src='" + target + "js/prefabs/FlyingEnemy.js'></script><script src='" + target + "js/prefabs/RunningEnemy.js'></script><script src='" + target + "js/prefabs/StoneEnemy.js'></script><script src='" + target + "js/prefabs/Goal.js'></script><script src='" + target + "js/prefabs/Checkpoint.js'></script><script src='" + target + "js/prefabs/Coin.js'></script><script src='" + target + "js/prefabs/Score.js'></script><script src='" + target + "js/prefabs/Lives.js'></script><script src='" + target + "js/prefabs/Item.js'></script><script src='" + target + "js/prefabs/LifeItem.js'></script><script src='" + target + "js/prefabs/FireballItem.js'></script><script src='" + target + "js/prefabs/Fireball.js'></script><script src='" + target + "js/prefabs/Boss.js'></script><script type='text/javascript' src='" + target + "js/main.js'></script>";
         smusic.volume = 0.1;
         if (target == 'Trump/') {
