@@ -33,6 +33,8 @@ $('.button').mousedown(function(e){
         $('.loading').fadeIn();
         setTimeout(function(){
             $('.trumpette').hide();
+            $('.control').hide();
+            $('#bggif').hide();
             $('.button').hide();
             $('body').append(include);
             setTimeout(function(){

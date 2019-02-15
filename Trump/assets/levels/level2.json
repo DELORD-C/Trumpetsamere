@@ -7,12 +7,17 @@
         "goal_image": { "type": "image", "source": "Trump/assets/images/goal.png" },
         "checkpoint_image": { "type": "image", "source": "Trump/assets/images/checkpoint.png" },
         "coin_image": { "type": "image", "source": "Trump/assets/images/coin.png" },
+        "fireball_image": { "type": "image", "source": "Trump/assets/images/fireball.png" },
+        "life_item_image": { "type": "image", "source": "Trump/assets/images/life_item.png" },
+        "fireball_item_image": { "type": "image", "source": "Trump/assets/images/fireball.png" },
+
         "level_tilemap": { "type": "tilemap", "source": "Trump/assets/maps/level2_map.json" }
     },
     "groups": [
         "goals",
         "checkpoints",
         "coins",
+        "fireballs",
         "enemies",
         "players",
         "items",

@@ -83,3 +83,22 @@ canvas {
     z-index: 1000;
     margin-top: 260px;
 }
+
+#bggif {
+    mix-blend-mode: screen;
+    width: 870px;
+}
+
+#move {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+}
+
+#shoot {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+}
